@@ -1,7 +1,7 @@
 //project euler code for the project euler problems
 // user: Daniel "xFuture"
 
-//problem 3:
+//problem 4:
 
 function largestPal(digits) {
     var i, max, min, d, inf, sup, limit, number = 0;
