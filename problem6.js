@@ -11,6 +11,3 @@ for(i = 1; i < 100; i++) {
 }
 
 console.log("result of this problem is: " + (sum * 2));
-
-
-console.log("Hello World");
